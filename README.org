@@ -1,7 +1,9 @@
 #+title: Relatório de Programação Avançada
 #+description: Relatório preenchido ao longo da cadeira 2025/2 - 22000227 - T1 - TÓPICOS ESPECIAIS EM COMPUTAÇÃO II da UFPel
 
-| Trabalho | Data e hora de entrega do ultimo arquivo | Link para os arquivos no Git                                                      | Fez tudo o que foi solicitado dentro do prazo? |
-|        1 | 2025-09-25 23h36m                        | https://github.com/pedropsouza/stales-geom-viewer                                 | Sim                                            |
-|        2 | NA                                       | https://github.com/pedropsouza/stales-geom-viewer/tree/master/src/bin/voronoi     | Não                                            |
-|        3 | 2025-10-18 23h32m                        | https://github.com/pedropsouza/stales-geom-viewer/tree/master/src/bin/convex-hull | Sim                                            |
+| Trabalho | Data e hora de entrega do ultimo arquivo | Link para os arquivos no Git                                                        | Fez tudo o que foi solicitado dentro do prazo? |
+|        1 | 2025-09-25 23h36m                        | https://github.com/pedropsouza/stales-geom-viewer                                   | Sim                                            |
+|        2 | NA                                       | https://github.com/pedropsouza/stales-geom-viewer/tree/master/src/bin/voronoi       | Não                                            |
+|        3 | 2025-10-18 23h32m                        | https://github.com/pedropsouza/stales-geom-viewer/tree/master/src/bin/convex-hull   | Sim                                            |
+|        4 | NA                                       | NA                                                                                  | Não                                            |
+|        5 | 2025-11-12 21h07m                        | https://github.com/pedropsouza/stales-geom-viewer/tree/master/src/bin/discrete-grid | Sim                                            |
