@@ -7,4 +7,5 @@
 |        3 | 2025-10-18 23h32m                        | https://github.com/pedropsouza/stales-geom-viewer/tree/master/src/bin/convex-hull   | Sim                                            |
 |        4 | NA                                       | NA                                                                                  | Não                                            |
 |        5 | 2025-11-12 21h07m                        | https://github.com/pedropsouza/stales-geom-viewer/tree/master/src/bin/discrete-grid | Sim                                            |
-|        6 | 2025-11-18 23h40m                        | https>//github.com/pedropsouza/stales-geom-viewer/tree/master/src/bin/discrete-grid | Sim                                            |
+|        6 | 2025-11-18 23h40m                        | https://github.com/pedropsouza/stales-geom-viewer/tree/master/src/bin/discrete-grid | Sim                                            |
+|        7 | 2025-11-25 23h50m                        | https://github.com/pedropsouza/stales-geom-viewer/tree/master/src/bin/discrete-grid | Sim                                            |
