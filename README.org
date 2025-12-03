@@ -9,3 +9,4 @@
 |        5 | 2025-11-12 21h07m                        | https://github.com/pedropsouza/stales-geom-viewer/tree/master/src/bin/discrete-grid | Sim                                            |
 |        6 | 2025-11-18 23h40m                        | https://github.com/pedropsouza/stales-geom-viewer/tree/master/src/bin/discrete-grid | Sim                                            |
 |        7 | 2025-11-25 23h50m                        | https://github.com/pedropsouza/stales-geom-viewer/tree/master/src/bin/discrete-grid | Sim                                            |
+|        8 | 2025-12-02 23h42m                        | https://github.com/pedropsouza/stales-geom-viewer/tree/master/src/bin/discrete-grid | Sim                                            |
